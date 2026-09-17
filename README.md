@@ -68,7 +68,7 @@ resources/
 |-- det_db
 |   |--inference.pdiparams
 |   |--inference.pdmodel
-|-- rec_rcnn
+|-- rec_crnn
 |   |--inference.pdiparams
 |   |--inference.pdmodel
 |-- cls
